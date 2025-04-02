@@ -20,3 +20,11 @@ Explore the visualizations and interact with filters.
 
 🤝 Contributions
 Feel free to fork, raise issues, or suggest improvements to enhance the dashboard.
+
+## 🚀 Skills Used
+- 📊 **Power BI**  
+- 📈 **Data Analysis**  
+- 🔢 **DAX for calculations**  
+- 🗄️ **SQL**  
+- 📂 **Data Cleaning & Processing**  
+
