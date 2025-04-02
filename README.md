@@ -6,7 +6,9 @@ This project analyzes the performance of PrimeMart using Power BI. The dashboard
 ✅ Sales Analysis – Track revenue, product sales, and category performance.
 ✅ Customer Insights – Identify top customers, purchase frequency, and trends.
 ✅ Performance Metrics – Visualize profit margins, growth trends, and stock levels.
-✅ Interactive Dashboard – Easily filter and analyze data dynamically.
+✅ Time-Based Analysis – View sales performance by quarters, months, and years.
+✅ Interactive Slicers – Filter data dynamically based on regions, products, time periods, and categories.
+✅ KPI Visuals – Highlight key business metrics using cards and charts.
 
 📁 Files Included
 📂 Primemart Performance Analysis.pbix – Power BI report file.
